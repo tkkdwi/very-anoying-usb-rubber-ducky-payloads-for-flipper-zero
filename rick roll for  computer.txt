@@ -1,6 +1,7 @@
-DELAY 3000
-GUI r
-DELAY 3000
-STRING https://m.youtube.com/watch?v=DLzxrzFCyOs
 DELAY 1000
-ENTER
+GUI r 
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1
+DELAY 1000
+REM so this will open up the rick roll youtube page and probably will mess with your friends xd
+REM-----haacks------
+REM or im also just a random 12 yr old 
